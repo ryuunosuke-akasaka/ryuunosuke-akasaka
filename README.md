@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Flutter
 - 💞️ Love Developing, love exploring new technology
 
+---
 
+<img align ="left" alt="ryuu's github stats" src = "https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka)](https://github.com/anuraghazra/github-readme-stats" />
 
 <!---
 ryuunosuke-akasaka/ryuunosuke-akasaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
