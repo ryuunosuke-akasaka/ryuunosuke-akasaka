@@ -5,13 +5,9 @@
 
 ---
 
-<img align="left" alt="ryuu's github stats" src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka"/>
+<a > <img align="left" alt="ryuu's github stats" src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka"/> </a>
 
-<br></br>
----
-
-
-<img align="left" alt="ryuu's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuunosuke-akasaka" />
+<a><img align="left" alt="ryuu's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuunosuke-akasaka" /></a>
 
 
 <!---
