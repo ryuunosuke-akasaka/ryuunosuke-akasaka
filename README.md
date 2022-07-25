@@ -5,7 +5,12 @@
 
 ---
 
-<img align ="left" alt="ryuu's github stats" src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka" />
+<img align="left" alt="ryuu's github stats" src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka"/>
+
+---
+
+<img align="left" alt="ryuu's top lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuunosuke-akasaka" />
+
 
 <!---
 ryuunosuke-akasaka/ryuunosuke-akasaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
