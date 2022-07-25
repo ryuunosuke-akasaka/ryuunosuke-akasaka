@@ -5,7 +5,7 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka&show_icons=true&theme=gruvbox"/></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuunosuke-akasaka" /></a>
 
