@@ -5,7 +5,7 @@
 
 ---
 
-<img align ="left" alt="ryuu's github stats" src = "https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka)](https://github.com/anuraghazra/github-readme-stats" />
+<img align ="left" alt="ryuu's github stats" src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka" />
 
 <!---
 ryuunosuke-akasaka/ryuunosuke-akasaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
