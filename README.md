@@ -5,9 +5,9 @@
 
 ---
 
-<a > <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka"/> </a>
+<a > <img align="left" src="https://github-readme-stats.vercel.app/api?username=ryuunosuke-akasaka"/> https://github.com/anuraghazra/github-readme-stats</a>
 
-<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuunosuke-akasaka" /></a>
+<a><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryuunosuke-akasaka" /> https://github.com/anuraghazra/github-readme-stats </a>
 
 
 <!---
